@@ -6,7 +6,9 @@ Welcome to my Project.This is an end to end Machine Learning Web Application.The
 I have used the  following dataset named **Bangalore House Price Predictions** for my project,which consists of information regarding the houses in different locations in Bangalore  and price of the houses.
 
 I had Attached the link to the dataset:   "https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data".
+
 Here I attached sample of the dataset i had used.
+
 ![Screenshot 2023-07-18 005746](https://github.com/SatyaSai21/House-Price-Prediction-Project/assets/100891485/69c0a51d-b188-4fbc-a5e7-e6874b3442c7)
 
 
