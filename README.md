@@ -8,7 +8,6 @@ I have used the  following dataset named **Bangalore House Price Predictions** f
 I had Attached the link to the dataset:   "https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data".
 Here I attached sample of the dataset i had used.
 ![Screenshot 2023-07-18 005746](https://github.com/SatyaSai21/House-Price-Prediction-Project/assets/100891485/69c0a51d-b188-4fbc-a5e7-e6874b3442c7)
--1b4fb162b847)
 
 
 
